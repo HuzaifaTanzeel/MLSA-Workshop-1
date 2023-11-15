@@ -25,7 +25,7 @@ import "./styles.css";
  * but its stupid that you dont have a resume make one ASAP
  */
 const siteProps = {
-  name: "Khalid Khursheed",
+  name: "Huzaifa Tanzeel",
   title: "Web Designer & Content Creator",
   email: "alex@example.com",
   gitHub: "HuzaifaTanzeel",
